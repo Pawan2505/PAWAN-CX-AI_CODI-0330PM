@@ -1,0 +1,17 @@
+.container{
+    width: 50%;
+    height: 500px;
+    border: 2px solid black;
+    background-image: url('./image/img1.jpg');
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+    /* background-size: cover; */
+    background-size: 100% 500px;
+    /* background-position: bottom; */
+    /* background-position: left; */
+    /* background-position: right; */
+}
+
+.heading{
+    color: red;
+}
