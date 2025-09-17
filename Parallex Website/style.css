@@ -1,0 +1,21 @@
+.container1 {
+  width: 100%;
+  height: 400px;
+  background-image: url("./images/rnw_web_slider.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+.container2 {
+  width: 100%;
+  height: 400px;
+  background-image: url("./images/rnw_web_slider1.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+.container3 {
+  width: 100%;
+  height: 400px;
+  background-image: url("./images/rnw_web_slider2.png");
+  background-size: cover;
+  background-attachment: fixed;
+}

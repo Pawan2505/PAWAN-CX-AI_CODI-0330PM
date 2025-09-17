@@ -1,0 +1,10 @@
+.h1-heading{
+    display: inline;
+    /* display: inline-block; */
+    width: 400px;
+}
+
+span{
+    /* display: block; */
+    display: none;
+}
